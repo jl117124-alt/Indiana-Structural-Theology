@@ -6,13 +6,13 @@
 
 ## **Scope and Canon Status**
 
-The closure claims in this addendum apply to the Sets I–IV identification architecture described below. They do not establish closure of every document in the repository or adjudicate the status of Sets V and VI.
+**The canon includes Sets I–VI.** Sets V and VI are canonical extensions: Set V addresses subject condition and final adjudication; Set VI addresses systemic counterfeit and terminal consolidation. They depend on the preceding sets and preserve rather than replace the Sets I–IV identification architecture.
 
-Repository evidence presents Set V as **“Canonical Form — Constraint Completion Layer”**, dependent on Sets I–IV and expressly preserving their derivations. Set VI presents itself as **“Canonical Form — Master Derivation Document”**, assumes Sets I–V, and states that it depends on rather than replaces them. Parts I and II of *DOCTRINE OF THE WILES OF THE DEVIL* also integrate Set VI. These statements support an intended canonical extension in dependency order, rather than an appendix or noncanonical experiment; they do not establish adoption chronology or validate the derivations.
+The closure claims in this addendum apply only to that Sets I–IV identification architecture. They do not declare the entire six-set canon verified or closed. Set V's constraint completion and Set VI's dependent derivation therefore do not contradict the identification closure stated here.
 
-All three documents were introduced together in the repository's sole commit, [`bde397d6ccd58e6512120640547a553505a64f2a`](https://github.com/jl117124-alt/Indiana-Structural-Theology/commit/bde397d6ccd58e6512120640547a553505a64f2a), dated April 11, 2026. That history cannot establish whether Sets V and VI were authored or adopted after this addendum, or whether its closure language was intended to supersede them.
+Repository evidence supports this dependency order: Set V's boundary assumes Sets I–IV and disclaims alteration of prior derivations; Set VI's boundary assumes Sets I–V, and its integration statement says it depends on rather than replaces them. Parts I and II of *DOCTRINE OF THE WILES OF THE DEVIL* also integrate Set VI.
 
-**Canon decision still required:** Does the canon include Sets I–VI, with this addendum closing only the Sets I–IV identification architecture; remain Sets I–IV with V and VI retained as appendices; or remain Sets I–IV with V and VI designated noncanonical experiments? If V and VI have different statuses, each must be designated separately. Pending that decision, their existing canonical labels and doctrinal content are preserved, and this addendum neither ratifies nor demotes them.
+All three documents were introduced together in the initial repository commit, [`bde397d6ccd58e6512120640547a553505a64f2a`](https://github.com/jl117124-alt/Indiana-Structural-Theology/commit/bde397d6ccd58e6512120640547a553505a64f2a), dated April 11, 2026. Git history does not establish their relative authorship or adoption dates. The Operator explicitly confirmed the Sets I–VI canon on October 7, 2026; this scope clarification records that decision without asserting an earlier chronology or independently validating the derivations.
 
 ---
 
@@ -268,4 +268,4 @@ Then:
 
 No further structural work is required for the Sets I–IV identification result stated here.
 
-Further work must preserve the governing constraints. This closure does not prohibit dependent extensions or settle the canon status of Sets V and VI.
+Further work must preserve the governing constraints. Sets V and VI are canonical dependent extensions beyond this identification result; this addendum does not verify their additional derivations.
