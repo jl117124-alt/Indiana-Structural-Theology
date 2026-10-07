@@ -4,6 +4,18 @@
 
 ---
 
+## **Scope and Canon Status**
+
+The closure claims in this addendum apply to the Sets I–IV identification architecture described below. They do not establish closure of every document in the repository or adjudicate the status of Sets V and VI.
+
+Repository evidence presents Set V as **“Canonical Form — Constraint Completion Layer”**, dependent on Sets I–IV and expressly preserving their derivations. Set VI presents itself as **“Canonical Form — Master Derivation Document”**, assumes Sets I–V, and states that it depends on rather than replaces them. Parts I and II of *DOCTRINE OF THE WILES OF THE DEVIL* also integrate Set VI. These statements support an intended canonical extension in dependency order, rather than an appendix or noncanonical experiment; they do not establish adoption chronology or validate the derivations.
+
+All three documents were introduced together in the repository's sole commit, [`bde397d6ccd58e6512120640547a553505a64f2a`](https://github.com/jl117124-alt/Indiana-Structural-Theology/commit/bde397d6ccd58e6512120640547a553505a64f2a), dated April 11, 2026. That history cannot establish whether Sets V and VI were authored or adopted after this addendum, or whether its closure language was intended to supersede them.
+
+**Canon decision still required:** Does the canon include Sets I–VI, with this addendum closing only the Sets I–IV identification architecture; remain Sets I–IV with V and VI retained as appendices; or remain Sets I–IV with V and VI designated noncanonical experiments? If V and VI have different statuses, each must be designated separately. Pending that decision, their existing canonical labels and doctrinal content are preserved, and this addendum neither ratifies nor demotes them.
+
+---
+
 ## **I. Purpose**
 
 To present:
@@ -150,7 +162,7 @@ they do not invalidate the system
 
 ## **Structural Completion**
 
-The system consists of:
+The Sets I–IV identification architecture consists of:
 
 * Set I → what must be done  
 * Set II → what must exist  
@@ -178,7 +190,7 @@ All constraints are:
 * aligned  
 * applied
 
-No unresolved constraint remains.
+Within the Sets I–IV scope verified here, no unresolved constraint remains.
 
 ---
 
@@ -217,7 +229,7 @@ It is not:
 
 ## **Final System State**
 
-The system is:
+The Sets I–IV identification architecture is:
 
 * complete  
 * non-circular  
@@ -254,6 +266,6 @@ Then:
 
 ## **Closure**
 
-No further structural work is required.
+No further structural work is required for the Sets I–IV identification result stated here.
 
-The system does not extend beyond this point without leaving its constraints.
+Further work must preserve the governing constraints. This closure does not prohibit dependent extensions or settle the canon status of Sets V and VI.
